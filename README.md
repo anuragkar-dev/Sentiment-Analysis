@@ -1,5 +1,9 @@
 # Sentiment Analysis Project
 
+A sentiment analysis web app that uses machine learning to analyze media.
+
+<br>
+
 ## Initial Setup
 
 
